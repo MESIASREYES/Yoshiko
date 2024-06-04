@@ -61,20 +61,6 @@ global.imagen6 = fs.readFileSync('./Menu.png');
 global.imagen7 = fs.readFileSync('./Menu7.png');
 global.imagen8 = fs.readFileSync('./Que.jpg');
 
-//• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9' //Grupo Oficial De Yoshiko1
-global.gp2 = 'https://chat.whatsapp.com/BvHfQUBNAAFF1k1F9bTL0G' //Grupo Oficial Yoshiko2
-global.gp3 = 'https://chat.whatsapp.com/BWulHIz6yxJ9hxxpw7qn2T' //GataBot Y YoshikoBot
-global.gp4 = 'https://chat.whatsapp.com/E6LJVwoT9hQ5sn0t3HgeiE' //Curiosity Y Yoshiko
-global.gp5 = 'https://chat.whatsapp.com/IstOAq2RnBx687WhQpOYK8' //Nova Y Yoshiko
-global.gp6 = 'https://chat.whatsapp.com/KjR8NTfdWwU1a66uDOOGLZ' //Multibots
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' //Canal Oficial
-global.channel2 = 'https://whatsapp.com/channel/0029VaXaCa66xCSHugaf773M' //canal segundario
-global.channel3 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
-global.yt = 'https://www.youtube.com/@Yoshiko_team' //Canal De Youtube
-global.md = 'https://github.com/Diego-YL-177/YoshikoBot-MD' //Github Oficial
-global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
-
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
 global.locale = 'es';
